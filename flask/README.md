@@ -19,5 +19,5 @@ publically accessible.
 
 ### Configure quiq bot
 
-
+Configure your quiq bot to call your webhook via your publically accessible url. More details [here](https://knowledge.quiq.com/product-landings/bot-product-landing.html#call-webhook)
 
