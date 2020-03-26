@@ -1,0 +1,2 @@
+server: nodemon ./index.js
+ngrok: node ./ngrok.js
