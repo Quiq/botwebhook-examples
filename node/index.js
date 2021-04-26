@@ -37,8 +37,13 @@ const app = express();
               SMS: {text: "Hello SMS User!"}
             }
           }
-        }
-        // ... other actions
+        },
+      //{ 
+      //  "action": "setField",
+      //  "field": "schema.conversation.customer.firstName",
+      //  "value": "Example"
+      //},
+      // ... other actions
       ]
     });
   });

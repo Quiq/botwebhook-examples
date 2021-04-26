@@ -60,6 +60,11 @@ def hello_world():
           }
         }
       }
+      #,{ 
+      #  "action": "setField",
+      #  "field": "schema.conversation.customer.firstName",
+      #  "value": "Example"
+      #}
       # ... other actions
       ]
     }
